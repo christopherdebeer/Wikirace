@@ -1,0 +1,21 @@
+[04-Dec-2010 07:55:48] PHP Warning:  Wrong parameter count for curl_exec() in /home/christop/public_html/sandbox/wikirace/index.php on line 11
+[04-Dec-2010 07:57:05] PHP Warning:  Wrong parameter count for curl_exec() in /home/christop/public_html/sandbox/wikirace/index.php on line 11
+[04-Dec-2010 19:31:26] PHP Parse error:  syntax error, unexpected T_INCLUDE, expecting ',' or ';' in /home/christop/public_html/sandbox/wikirace/startgame.php on line 31
+[04-Dec-2010 19:54:36] PHP Parse error:  syntax error, unexpected $end in /home/christop/public_html/sandbox/wikirace/checkopengames.php on line 30
+[04-Dec-2010 20:00:47] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/christop/public_html/sandbox/wikirace/checkopengames.php on line 26
+[04-Dec-2010 20:20:30] PHP Parse error:  syntax error, unexpected '}' in /home/christop/public_html/sandbox/wikirace/checkopengames.php on line 71
+[05-Dec-2010 15:34:59] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/christop/public_html/sandbox/wikirace/leaderboard.php on line 22
+[05-Dec-2010 15:52:29] PHP Fatal error:  Call to undefined function  mysql_numorows() in /home/christop/public_html/sandbox/wikirace/leaderboard.php on line 17
+[05-Dec-2010 15:52:52] PHP Fatal error:  Call to undefined function  mysql_numorows() in /home/christop/public_html/sandbox/wikirace/leaderboard.php on line 17
+[05-Dec-2010 15:53:05] PHP Fatal error:  Call to undefined function  mysql_numorows() in /home/christop/public_html/sandbox/wikirace/leaderboard.php on line 17
+[05-Dec-2010 15:53:35] PHP Fatal error:  Call to undefined function  mysql_numorows() in /home/christop/public_html/sandbox/wikirace/leaderboard.php on line 17
+[05-Dec-2010 15:54:02] PHP Fatal error:  Call to undefined function  mysql_numorows() in /home/christop/public_html/sandbox/wikirace/leaderboard.php on line 17
+[05-Dec-2010 16:16:53] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/christop/public_html/sandbox/wikirace/inc/footer.php on line 58
+[07-Dec-2010 12:49:47] PHP Parse error:  syntax error, unexpected $end, expecting T_VARIABLE or '$' in /home/christop/public_html/sandbox/wikirace/profile.php on line 53
+[07-Dec-2010 17:35:10] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/christop/public_html/sandbox/wikirace/fixpaths.php on line 13
+[07-Dec-2010 17:35:13] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/christop/public_html/sandbox/wikirace/fixpaths.php on line 13
+[08-Dec-2010 11:25:08] PHP Parse error:  syntax error, unexpected T_EXIT, expecting ',' or ';' in /home/christop/public_html/sandbox/wikirace/leaderboard.php on line 86
+[25-Dec-2010 11:12:47] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/christop/public_html/sandbox/wikirace/fbtest.php on line 13
+[25-Dec-2010 11:12:50] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/christop/public_html/sandbox/wikirace/fbtest.php on line 13
+[25-Dec-2010 11:28:01] PHP Fatal error:  Call to a member function pages_isFan() on a non-object in /home/christop/public_html/sandbox/wikirace/fbtest.php on line 24
+[25-Dec-2010 11:47:11] PHP Fatal error:  Call to a member function pages_isFan() on a non-object in /home/christop/public_html/sandbox/wikirace/fbtest.php on line 24

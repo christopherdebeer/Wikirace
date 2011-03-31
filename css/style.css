@@ -1,0 +1,89 @@
+#wikirace-forms input {
+		width:300px;
+		float:left;
+		padding:4px;
+		margin-bottom:20px;
+		clear:right;
+}
+#wikirace-forms label {
+		padding:4px;
+		float:left;
+		width:150px;
+		clear:left;
+}
+
+.wikirace-feedback {
+		padding:20px;
+		border:1px solid #ccc;
+		margin-bottom:10px;
+		background-color:#ccc;
+		font-weight:bold;
+		margin-top:20px;
+		width:90%;
+}
+
+#wikiuser {
+		float:right;
+		font-size:12px;
+		margin:10px;
+		text-align:right;
+}
+
+ol.overall {
+		text-align:left;
+}
+#wikirace ol.overall {
+		margin-left:0;
+		margin-bottom:20px;
+		margin-top:20px;
+		border:1px solid #ccc;
+		padding:10px;
+
+}
+#wikirace ol.overall li {
+		margin-bottom:10px;
+		border-bottom:1px solid #ccc;
+		overflow:auto;
+
+}
+#wikirace ol.overall li:last-child {
+		border:none;
+		margin-bottom:0;
+}
+#wikirace ol.overall .counter {
+		width:7%;
+		display:block;
+		float:left;
+}
+#wikirace ol.overall .username {
+		width:60%;
+		display:block;
+		float:left;
+}
+#wikirace ol.overall .score {
+		width:25%;
+		margin-left:20px;
+		font-weight:bold;
+		display:block;
+		float:left;
+}
+#wikirace-nav {
+		text-align: center;
+		margin-bottom:60px;
+}
+#wikirace {overflow:auto;}
+
+#wikirace .board {
+		width:30%;
+		float:left;
+}
+
+#wikirace .baord li.sameuser {
+		background-color: #25F93E;
+}
+
+#wikirace .gameslist li {
+		padding-bottom:15px;
+		border-bottom:1px solid #ccc;
+		margin-bottom:15px;
+}
